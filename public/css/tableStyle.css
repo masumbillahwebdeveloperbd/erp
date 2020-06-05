@@ -1,0 +1,48 @@
+/*custom Style*/
+
+.custom-form-control {
+	height: calc(0.5em + .5rem + 4px);
+	font-size: 0.7rem;
+	border-radius: .5rem;
+}
+
+.col-form-label-custom {
+	font-size: 0.7rem;
+	line-height: 1;
+	position: relative;
+	top: -5px;
+}
+
+.table-font-size {
+	font-size: .8rem;
+}
+
+
+.table-position {
+	position: relative;
+    bottom: 228px;
+}
+
+.table-position-bottom {
+	position: relative;
+	bottom: 218px;
+}
+
+.each-table-position {
+	position: relative;
+	top: -17px;
+}
+
+.hr-margin-top {
+	margin-top: -3px;
+}
+
+.table-posstion-top {
+	position: relative;
+	top: 25px;
+}
+
+.custom-select-control {
+	width: 100%;
+	border: 1px solid #ced4da;
+}
